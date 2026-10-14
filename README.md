@@ -41,7 +41,7 @@ A Solana launchpad frontend template — themed landing sections, wallet integra
 ## Quick start
 
 ```bash
-git clone https://github.com/TechTronixx/sol-launchpad.git && cd sol-launchpad && bun install && bun run dev
+git clone https://github.com/teraus111/solana-launchpad-template.git && cd sol-launchpad && bun install && bun run dev
 ```
 
 Open http://localhost:3000.
@@ -54,7 +54,7 @@ Open http://localhost:3000.
 ## Manual install
 
 ```bash
-git clone https://github.com/TechTronixx/sol-launchpad.git
+git clone https://teraus111/solana-launchpad-template.git
 cd sol-launchpad
 bun install
 bun run dev        # development
